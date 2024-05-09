@@ -2,6 +2,6 @@
 A landing page of a modern banking application built using 
 **React.js** and **Tailwind CSS**.
 
-![Image](/bank_app/src/assets/README_img.png)
+![Image](src/assets/README_img.png)
 
-[Landing Page](https://feliciahmq.github.io/bank-landing-page/)
+[Bank Landing Page!](https://feliciahmq.github.io/bank-landing-page/)
