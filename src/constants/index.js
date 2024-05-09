@@ -25,12 +25,12 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best credit cards offer some tantalizing combinations of promotions and prizes.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Secure",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
@@ -49,15 +49,15 @@ export const feedback = [
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Founder",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Money makes your life easier. If you're lucky to have it, you're lucky. Those fortunate enough to possess it are truly blessed.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "CEO",
     img: people02,
   },
   {
@@ -65,7 +65,7 @@ export const feedback = [
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Director",
     img: people03,
   },
 ];
@@ -73,17 +73,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Users Active",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Trusted Companies",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transactions",
     value: "$230M+",
   },
 ];
@@ -122,8 +122,8 @@ export const footerLinks = [
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Members",
+        link: "https://www.hoobank.com/members/",
       },
       {
         name: "Suggestions",
@@ -143,7 +143,7 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Our Partners",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
